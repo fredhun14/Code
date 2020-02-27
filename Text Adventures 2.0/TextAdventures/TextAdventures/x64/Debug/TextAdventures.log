@@ -1,0 +1,14 @@
+﻿Build started 5/22/2017 8:34:56 AM.
+     1>Project "E:\TextAdventures\TextAdventures\TextAdventures.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(226): warning C4552: '+' : operator has no effect; expected operator with side-effect
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\TextAdventures\x64\Debug\TextAdventures.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\TextAdventures\x64\Debug\TextAdventures.pdb" /SUBSYSTEM:CONSOLE,"5.02" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\TextAdventures\x64\Debug\TextAdventures.lib" /MACHINE:X64 x64\Debug\main.obj
+         TextAdventures.vcxproj -> E:\TextAdventures\x64\Debug\TextAdventures.exe
+     1>Done Building Project "E:\TextAdventures\TextAdventures\TextAdventures.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.53
