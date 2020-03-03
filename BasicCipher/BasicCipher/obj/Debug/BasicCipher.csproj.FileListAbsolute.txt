@@ -1,0 +1,9 @@
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\bin\Debug\BasicCipher.exe.config
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\bin\Debug\BasicCipher.exe
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\bin\Debug\BasicCipher.pdb
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.csprojAssemblyReference.cache
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.Form1.resources
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.Properties.Resources.resources
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.csproj.GenerateResource.cache
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.exe
+C:\Users\fredh\source\repos\BasicCipher\BasicCipher\obj\Debug\BasicCipher.pdb
