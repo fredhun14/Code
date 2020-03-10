@@ -1,0 +1,10 @@
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\bin\Debug\VroengardWebBrowser.exe.config
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\bin\Debug\VroengardWebBrowser.exe
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\bin\Debug\VroengardWebBrowser.pdb
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.csprojAssemblyReference.cache
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.Form1.resources
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.Properties.Resources.resources
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.csproj.GenerateResource.cache
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.exe
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.pdb
+E:\visual studio projects\VroengardWebBrowser\VroengardWebBrowser\obj\Debug\VroengardWebBrowser.HistoryForm.resources
