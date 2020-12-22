@@ -1,0 +1,1 @@
+casesize,daycode,Tote,remark1,description,buyer,remark2,123456789,No,remark3,1,2,1234567890,0987654321,8,4,,,Tote,,,,,,No,,3,4,,,4,3,,,Tote,,,,,,No,,5,6,,,0,0,,,Tote,,,,,,No,,7,8,,,8,7,,,Tote,,,,,,No,,9,11,,,33,27,,,Tote,,,,,,No,,0,0,,,0,0

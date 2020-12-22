@@ -1,0 +1,10 @@
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\bin\Debug\GarrettManifester.exe.config
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\bin\Debug\GarrettManifester.exe
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\bin\Debug\GarrettManifester.pdb
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.csprojAssemblyReference.cache
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.Form1.resources
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.Properties.Resources.resources
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.csproj.GenerateResource.cache
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.csproj.CoreCompileInputs.cache
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.exe
+C:\Users\mikeh\source\repos\GarrettManifester\GarrettManifester\obj\Debug\GarrettManifester.pdb
